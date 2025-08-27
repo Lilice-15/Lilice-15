@@ -1,5 +1,5 @@
 # 💫 About Me:
-𐙚 ꒰ Hello!<br>𐙚 ꒰ I'm currently studying and programming in C
+𐙚 ꒰ Hello!<br>𐙚 ꒰ I'm currently studying and programming in C and in Python 
 
 
 # 💻 Tech Stack:
